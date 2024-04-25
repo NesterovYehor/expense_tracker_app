@@ -1,0 +1,14 @@
+{
+    "wellcome": "Wellcome",
+    "total_balance": "Total Balance",
+    "income": "Income",
+    "expenses": "Expenses",
+    "transactions": "Transactions",
+    "view_all": "View All",
+    "add_expenses" : "Add Expenses",
+    "create_a_category": "Create a Category",
+    "icon": "Icon",
+    "name": "Name",
+    "color": "Color",
+    "save": "Save"
+}
